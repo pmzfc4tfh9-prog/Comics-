@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "character": "Lucid",
+  "event_count": 0,
+  "xp": {
+    "ki": 0,
+    "chakra": 0,
+    "control": 0,
+    "body": 0,
+    "spirit": 0,
+    "ninja": 0,
+    "ascension": 0
+  },
+  "types": {
+    "fire": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "wind": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "lightning": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "earth": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "water": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "ice": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "wood": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "lava": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "boil": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "storm": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "scorch": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "magnet": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "explosion": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "dust": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "yin": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "yang": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    },
+    "yin_yang": {
+      "unlocked": false,
+      "mastered": false,
+      "xp": 0,
+      "temporary_access": false
+    }
+  },
+  "active_form": null,
+  "sage_status": "undecided",
+  "history": []
+}

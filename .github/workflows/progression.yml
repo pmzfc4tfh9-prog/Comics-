@@ -1,0 +1,53 @@
+name: Update Lucid progression
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'progression/events.json'
+      - 'progression/rules.json'
+      - 'progression/tracker.py'
+      - 'tests/**'
+      - '.github/workflows/progression.yml'
+  workflow_dispatch:
+    inputs:
+      event:
+        description: 'Optional event JSON; leave blank to rebuild the graph'
+        required: false
+        type: string
+permissions:
+  contents: write
+concurrency:
+  group: lucid-progression-main
+  cancel-in-progress: false
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test progression rules
+        run: python -m unittest discover -s tests -v
+      - name: Record event or rebuild
+        env:
+          LUCID_EVENT: ${{ inputs.event }}
+        run: |
+          if [ -n "$LUCID_EVENT" ]; then
+            python progression/tracker.py record --event-json "$LUCID_EVENT"
+          else
+            python progression/tracker.py build
+          fi
+          python progression/tracker.py check
+      - name: Commit updated graph and history
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add progression/events.json progression/state.json progression/graph.svg progression/README.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update Lucid progression graph [skip ci]'
+            git push origin HEAD:main
+          fi

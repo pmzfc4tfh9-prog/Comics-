@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "character": "Lucid",
+  "tracks": ["ki", "chakra", "control", "body", "spirit", "ninja", "ascension"],
+  "types": ["fire", "wind", "lightning", "earth", "water", "ice", "wood", "lava", "boil", "storm", "scorch", "magnet", "explosion", "dust", "yin", "yang", "yin_yang"],
+  "initial_unlocked": [],
+  "transformation_types": ["fire", "wind", "lightning", "earth", "water", "ice", "wood", "lava", "boil", "storm", "scorch", "magnet", "explosion", "dust", "yin", "yang", "yin_yang"],
+  "sage_status": "undecided",
+  "notes": "Original Lucid system. Ki and chakra already exist in his lore. XP measures only newly logged progression, not his total power. Starting type affinities are unspecified. An all-types transformation grants temporary access to this registry, never automatic mastery. Sage pact and Super Sage remain undecided."
+}

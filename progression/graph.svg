@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1280" role="img" aria-labelledby="title desc">
+<title id="title">Lucid progression graph</title>
+<desc id="desc">Logged XP, elemental access, mastery and active transformation. Zero means no progress logged, not zero power.</desc>
+<rect width="1100" height="1280" fill="#0b121b"/>
+<text x="44" y="52" font-family="sans-serif" font-size="32" fill="#72e4a8">LUCID / LIVE PROGRESSION</text>
+<text x="44" y="89" font-family="sans-serif" font-size="18" fill="#eaf0f8">0 recorded events | Sage path: undecided</text>
+<text x="44" y="124" font-family="sans-serif" font-size="18" fill="#adbdce">XP tracks growth since logging began; baseline power is unspecified.</text>
+<text x="44" y="167" font-family="sans-serif" font-size="24" fill="#e9c67d">Current form: Base state</text>
+<text x="44" y="231" font-family="sans-serif" font-size="20" fill="#eaf0f8">Ki</text>
+<rect x="200" y="210" width="716" height="26" rx="9" fill="#1d2b3c" stroke="#304155"/>
+<text x="941" y="231" font-family="sans-serif" font-size="19" fill="#eaf0f8">0</text>
+<text x="44" y="274" font-family="sans-serif" font-size="20" fill="#eaf0f8">Chakra</text>
+<rect x="200" y="253" width="716" height="26" rx="9" fill="#1d2b3c" stroke="#304155"/>
+<text x="941" y="274" font-family="sans-serif" font-size="19" fill="#eaf0f8">0</text>
+<text x="44" y="317" font-family="sans-serif" font-size="20" fill="#eaf0f8">Control</text>
+<rect x="200" y="296" width="716" height="26" rx="9" fill="#1d2b3c" stroke="#304155"/>
+<text x="941" y="317" font-family="sans-serif" font-size="19" fill="#eaf0f8">0</text>
+<text x="44" y="360" font-family="sans-serif" font-size="20" fill="#eaf0f8">Body</text>
+<rect x="200" y="339" width="716" height="26" rx="9" fill="#1d2b3c" stroke="#304155"/>
+<text x="941" y="360" font-family="sans-serif" font-size="19" fill="#eaf0f8">0</text>
+<text x="44" y="403" font-family="sans-serif" font-size="20" fill="#eaf0f8">Spirit</text>
+<rect x="200" y="382" width="716" height="26" rx="9" fill="#1d2b3c" stroke="#304155"/>
+<text x="941" y="403" font-family="sans-serif" font-size="19" fill="#eaf0f8">0</text>
+<text x="44" y="446" font-family="sans-serif" font-size="20" fill="#eaf0f8">Ninja</text>
+<rect x="200" y="425" width="716" height="26" rx="9" fill="#1d2b3c" stroke="#304155"/>
+<text x="941" y="446" font-family="sans-serif" font-size="19" fill="#eaf0f8">0</text>
+<text x="44" y="489" font-family="sans-serif" font-size="20" fill="#eaf0f8">Ascension</text>
+<rect x="200" y="468" width="716" height="26" rx="9" fill="#1d2b3c" stroke="#304155"/>
+<text x="941" y="489" font-family="sans-serif" font-size="19" fill="#eaf0f8">0</text>
+<text x="44" y="560" font-family="sans-serif" font-size="23" fill="#75d7f5">POWER TYPES / ACCESS IS SEPARATE FROM MASTERY</text>
+<text x="44" y="593" font-family="sans-serif" font-size="16" fill="#adbdce">Gray: unspecified or dormant | Green: awakened | Gold: temporary | Purple: mastered</text>
+<rect x="44" y="621" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="57" y="650" font-family="sans-serif" font-size="20" fill="#9aa8b8">Fire</text>
+<text x="57" y="675" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="299" y="621" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="312" y="650" font-family="sans-serif" font-size="20" fill="#9aa8b8">Wind</text>
+<text x="312" y="675" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="554" y="621" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="567" y="650" font-family="sans-serif" font-size="20" fill="#9aa8b8">Lightning</text>
+<text x="567" y="675" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="809" y="621" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="822" y="650" font-family="sans-serif" font-size="20" fill="#9aa8b8">Earth</text>
+<text x="822" y="675" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="44" y="712" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="57" y="741" font-family="sans-serif" font-size="20" fill="#9aa8b8">Water</text>
+<text x="57" y="766" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="299" y="712" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="312" y="741" font-family="sans-serif" font-size="20" fill="#9aa8b8">Ice</text>
+<text x="312" y="766" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="554" y="712" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="567" y="741" font-family="sans-serif" font-size="20" fill="#9aa8b8">Wood</text>
+<text x="567" y="766" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="809" y="712" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="822" y="741" font-family="sans-serif" font-size="20" fill="#9aa8b8">Lava</text>
+<text x="822" y="766" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="44" y="803" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="57" y="832" font-family="sans-serif" font-size="20" fill="#9aa8b8">Boil</text>
+<text x="57" y="857" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="299" y="803" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="312" y="832" font-family="sans-serif" font-size="20" fill="#9aa8b8">Storm</text>
+<text x="312" y="857" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="554" y="803" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="567" y="832" font-family="sans-serif" font-size="20" fill="#9aa8b8">Scorch</text>
+<text x="567" y="857" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="809" y="803" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="822" y="832" font-family="sans-serif" font-size="20" fill="#9aa8b8">Magnet</text>
+<text x="822" y="857" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="44" y="894" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="57" y="923" font-family="sans-serif" font-size="20" fill="#9aa8b8">Explosion</text>
+<text x="57" y="948" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="299" y="894" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="312" y="923" font-family="sans-serif" font-size="20" fill="#9aa8b8">Dust</text>
+<text x="312" y="948" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="554" y="894" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="567" y="923" font-family="sans-serif" font-size="20" fill="#9aa8b8">Yin</text>
+<text x="567" y="948" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="809" y="894" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="822" y="923" font-family="sans-serif" font-size="20" fill="#9aa8b8">Yang</text>
+<text x="822" y="948" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<rect x="44" y="985" width="236" height="73" rx="9" fill="#142131" stroke="#9aa8b8"/>
+<text x="57" y="1014" font-family="sans-serif" font-size="20" fill="#9aa8b8">Yin Yang</text>
+<text x="57" y="1039" font-family="sans-serif" font-size="16" fill="#adbdce">unspecified | 0 XP</text>
+<text x="44" y="1110" font-family="sans-serif" font-size="19" fill="#eaf0f8">Transformation access ends when the form ends. Earned progress stays.</text>
+<text x="44" y="1142" font-family="sans-serif" font-size="19" fill="#eaf0f8">Permanent unlocks and mastery need explicit recorded milestones.</text>
+<text x="44" y="1190" font-family="sans-serif" font-size="18" fill="#adbdce">Updated from progression/events.json; full history is kept in the ledger.</text>
+<text x="44" y="1230" font-family="sans-serif" font-size="17" fill="#adbdce">Original Lucid system. Element names are an editable registry, not fixed anime rules.</text>
+</svg>
