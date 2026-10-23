@@ -2,6 +2,11 @@
 
 Original comic universe and character progression.
 
+
+## Comic canon and character designs
+
+The [LUCID Story Bible](docs/story-bible/README.md) is the canonical text index for [Lucid](docs/story-bible/characters/lucid.md), [Vivid](docs/story-bible/characters/vivid.md), [Zephyra](docs/story-bible/characters/zephyra.md), and the [Ancient One](docs/story-bible/characters/ancient-one.md), plus [Episode 1](docs/story-bible/chapters/episode-01.md), [Chapter 2](docs/story-bible/chapters/chapter-02.md), [Chapter 3](docs/story-bible/chapters/chapter-03.md) and [continuity rules](docs/story-bible/continuity.md). Original uploaded artwork remains the visual authority; generated drafts are not substitutes for approved scripts. The story bible does not automatically change Lucid's numerical progression.
+
 ## Current power graph
 
 ![Lucid power progression](progression/graph.svg)
