@@ -32,3 +32,14 @@
 - The Ancient One's shadow brand may remain dangerous; its exact effects after rescue and treatment are **unresolved**.
 - Final hospital scene, recovery, Ghost's next move and Chapter 4 events are **not yet established**.
 - The creator's rough dialogue and action beats are the authority; the headings and pagination here are organizational adaptations.
+
+
+## Pages 18–21 — Tiger escape / months-earlier flashback (creator's new scene)
+
+**18 — Night forest escape:** After Zephyra's blinding flash rescue, she rides a **six-foot-tall tiger** through a dark forest with critically injured Vivid in front of her, clinging on. She yells, **“Vivid, hold on! We're going to get you back to the city!”** Vivid's torn gi, head wounds, arm cut, bruises and spreading shadow brand persist. Origin/abilities of the tiger are **not yet specified**.
+
+**19–20 — Flashback, several months earlier:** Zephyra and Vivid eat lunch at a table. Vivid asks **“What's up, Zef? What's this all about?”** Zephyra says she is pressed for time and needs to be quick. She knows Vivid struggles to keep up with his rivals, but says his competitiveness isn't hateful or vengeful and that he has a kind spirit. She says her family runs **the paper**, knows of Vivid's clan abilities, and has heard of a **vengeful spirit/ghost** haunting ruins reached through a cave. Vivid is shocked that ghosts are real. Zephyra says she has encountered them and the world is larger than he knows. She asks how many animal Link slots he has left (**two**) and suggests a ghost might benefit him; Vivid replies he has only tried animals. Zephyra says there is much he doesn't know about himself and his own family. She pulls out an item transcribed as **“Mal”** (possibly a map; **not confirmed**), which they examine together.
+
+**21 — Return to present:** Cut back to Zephyra and Vivid riding the tiger out of the forest into an **open field**, nearing the city. Zephyra says they are getting closer. Vivid remains critically injured. The exact wording of the flashback dialogue remains a rough creator draft; don't invent lore or treat the ghost as an already-acquired Link.
+
+**Dialogue ambiguity to confirm:** The creator's rough line says **“hopefully one day you and Vivid will see it”** even though Zephyra is speaking to Vivid; likely intended **“you and Lucid”**, but the intended name is **not confirmed**. Preserve the ambiguity in canonical notes until confirmed.
