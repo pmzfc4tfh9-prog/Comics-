@@ -1,5 +1,7 @@
 # LUCID — Chapter 3: Fire Bear / The Ancient One
 
+> **Latest production edition:** [Complete 24-page Chapter 3 storyboard](chapter-03-24-page-storyboard.md) — all 24 numbered pages and 72 panel directions, including the expanded Fire Bear fight, void combo, Zephyra rescue, six-foot tiger escape, and months-earlier lunch flashback. This file is the **21-beat narrative outline**; use the 24-page edition for current manga pagination. Original character sheets and creator instructions remain authoritative. The illustrated PDF is not yet stored in GitHub.
+
 **Status:** Creator-established **plot beats**. Page divisions below are a working storyboard (pages 1–17), **not yet a final approved dialogue script**. Preserve the creator's intended action order and original character designs.
 
 ## Pages 1–6 — Vivid's Fire Bear
