@@ -14,6 +14,8 @@ Canonical character designs, abilities, relationships, and chapter continuity fo
 - [Zephyra](characters/zephyra.md) — **Lucid's older sister**, Explorer, staff, telekinesis, Guardian Angel.
 - [Ancient One](characters/ancient-one.md) — the entity Vivid called “Ghost.”
 
+- [Ancient Tower guards](characters/ancient-tower-guards.md) — creator-selected straw-hat monk and rabbit warrior; names and powers pending.
+
 ## Story
 - [Episode 1](chapters/episode-01.md)
 - [Chapter 2](chapters/chapter-02.md)
